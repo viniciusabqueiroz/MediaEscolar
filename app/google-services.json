@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "735118021917",
+    "firebase_url": "https://ardent-stacker-194414.firebaseio.com",
+    "project_id": "ardent-stacker-194414",
+    "storage_bucket": "ardent-stacker-194414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735118021917:android:46aeaf4a50a73731",
+        "android_client_info": {
+          "package_name": "android.curso.mediaescolarmvc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735118021917-t4t2elcal5bhnpmg9aql76q7hsnlohv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZI5HlGnGdjRJT4Tw6nXTItrvkq0e1J20"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

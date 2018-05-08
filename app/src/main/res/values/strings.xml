@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Super Média Escolar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_sair">Sair</string>
+
+    <string name="modelo_fragment">Fragmento Modelo</string>
+    <string name="modelo_bimestre_a">1º Bimestre</string>
+    <string name="modelo_bimestre_b">2º Bimestre</string>
+    <string name="modelo_bimestre_c">3º Bimestre</string>
+    <string name="modelo_bimestre_d">4º Bimestre</string>
+    <string name="modelo_resultado_final">Resultado Final</string>
+    <string name="txtResultado">Matemática Aprovado</string>
+    <string name="txtLogo">Logo Média Escolar</string>
+    <string name="bimestre">1º Bimestre</string>
+    <string name="txtEditar">Editar</string>
+    <string name="txtDeletar">Deletar</string>
+
+    <!-- Compartilhar app -->
+    <string name="share_body">Aplicativo para calcular média escolar.\n\nhttps://play.google.com/store/apps/details?id=android.curso.mediaescolarmvc</string>
+    <string name="share_subject">Novidade App MediaEscolar.</string>
+    <string name="share_with">Compartilhar usando...</string>
+
+</resources>
