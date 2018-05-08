@@ -85,7 +85,7 @@ public class SplashActivity extends AppCompatActivity
 
     private void boasVidas() {
 
-        String texto = "Corinthians, APITO AMIGO!";
+        String texto = "Welcome!";
 
         textToSpeech.speak(texto, TextToSpeech.QUEUE_FLUSH, null);
     }
