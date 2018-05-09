@@ -12,9 +12,7 @@ import android.util.Log;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by marcomaddo on 18/01/2018.
- */
+
 
 public class DataSource extends SQLiteOpenHelper {
 

@@ -9,9 +9,7 @@ import android.curso.mediaescolarmvc.model.MediaEscolar;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by marcomaddo on 18/01/2018.
- */
+
 
 public class MediaEscolarController extends DataSource {
 
@@ -33,10 +31,6 @@ public class MediaEscolarController extends DataSource {
      * Método que recebe um objeto MediaEscolar e prepara para enviar
      * para o DataSource e salvar no banco de dados.
      *
-     * @param obj é um Objeto MediaEscolar
-     * @return verdadeiro se salvou com sucesso, falso em caso de erro.
-     * @see android.curso.mediaescolarmvc.datasource
-     * @since versão 1.0-2018
      */
     public boolean salvar(MediaEscolar obj) {
 

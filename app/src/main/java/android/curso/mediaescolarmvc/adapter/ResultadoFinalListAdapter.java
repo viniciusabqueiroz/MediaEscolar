@@ -21,9 +21,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-/**
- * Created by marcomaddo on 23/02/2018.
- */
+
 
 public class ResultadoFinalListAdapter
         extends ArrayAdapter<MediaEscolar>

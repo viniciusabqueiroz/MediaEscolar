@@ -1,8 +1,6 @@
 package android.curso.mediaescolarmvc.datamodel;
 
-/**
- * Created by marcomaddo on 18/01/2018.
- */
+
 
 public class MediaEscolarDataModel {
 
